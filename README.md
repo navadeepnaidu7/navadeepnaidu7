@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @navadeepnaidu7
 - 👀 Tech savvy!
-- 🧑‍💻 Always trying to learn something and being better everyday.
+- 🧑‍💻 Trying to learn something and being better everyday.
 - 📫 How to reach me -twitter @navadeep_naidu7
 
   
