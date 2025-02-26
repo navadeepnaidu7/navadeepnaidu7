@@ -14,6 +14,6 @@ You can click the Preview link to take a look at your changes.
 
 I'm always eager to connect with fellow developers, tech enthusiasts, and potential collaborators. Feel free to reach out to me via email or connect with me on Twitter. Let's embark on this exciting tech journey together!
 
-[Mail](navadeepnaidu7@protonmail.com)
+[Mail](mailto:navadeepnaidu7@protonmail.com)
 
 (Feel free to explore the other sections of my portfolio website to learn more about my projects and experiences.)
